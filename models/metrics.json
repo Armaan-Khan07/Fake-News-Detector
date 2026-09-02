@@ -1,0 +1,9 @@
+{
+  "model_type": "logreg",
+  "total_articles": 20,
+  "real_articles": 10,
+  "fake_articles": 10,
+  "train_size": 16,
+  "test_size": 4,
+  "accuracy": 1.0
+}
